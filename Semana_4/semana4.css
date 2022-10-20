@@ -1,0 +1,42 @@
+*{
+	font-family: 'Helveticah',Arial;
+}
+body{
+	background: #ff0202;
+	margin: 0px
+}
+center{
+	width: 490px;
+    margin: auto;
+    background: #fff;
+}
+input,select{
+	margin: 10px auto;
+    width: 305px;
+    font-size: 18px;
+    height: 39px;
+    padding: 4px 12px;
+    border-radius: 15px;
+    border: 5px solid #fff;
+    box-shadow: 3px 4px 10px #c5c5c5;
+}
+img{
+	width: 100px;
+	margin: 20px auto;
+	border-radius: 15px;
+}
+form{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    padding: 50px;
+}
+.turno{
+	width: auto;
+}
+.fecha{
+	width: 130px;
+}
+.seleccion{
+	width: 200px;
+}
